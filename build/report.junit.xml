@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="/Users/charles/apps/cqrs/phpunit.xml" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.017877">
+    <testsuite name="VAS Test Suite" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.017877">
+      <testsuite name="Tests\Feature\ExampleTest" file="tests/Feature/ExampleTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.013765">
+        <testcase name="example" file="tests/Feature/ExampleTest.php::example" class="Tests\Feature\ExampleTest" classname="Tests.Feature.ExampleTest" assertions="1" time="0.013765"/>
+      </testsuite>
+      <testsuite name="Tests\Unit\ExampleTest" file="tests/Unit/ExampleTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.004112">
+        <testcase name="example" file="tests/Unit/ExampleTest.php::example" class="Tests\Unit\ExampleTest" classname="Tests.Unit.ExampleTest" assertions="1" time="0.004112"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
